@@ -4,8 +4,8 @@
 AutoFileOrganizer is a Python-based automated file management system that continuously monitors a folder, organizes files by type and date, logs activities, and optionally syncs with cloud storage like Dropbox.
 
 ## Features
-- **Real-time folder monitoring** — Automatically detects newly added files.
-- **Smart organization** — Moves files into structured directories:
+- Real-time folder monitoring
+- Moves files into structured directories:
 ```
 MyFiles/
 └── YYYY-MM-DD/
@@ -14,12 +14,12 @@ MyFiles/
   ├── MP4/
   └── PDF/
 ```
-- **Automatic CSV logging** — Records:
+- Automatic CSV logging Records:
   - Timestamp  
   - File Name  
   - Old Path  
   - New Path
-- **Visualization support** — Optional script to analyze file activity trends.
+- Visualization script to analyze file activity trends.
 
 ## Folder Structure
 ```
