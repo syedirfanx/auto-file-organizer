@@ -1,7 +1,7 @@
 # Auto File Organizer
 
 ## Overview
-AutoFileOrganizer is a Python-based automated file management system that continuously monitors a folder, organizes files by type and date, logs activities, and optionally syncs with cloud storage like Dropbox.
+AutoFileOrganizer is a Python-based automated file management system that continuously monitors a folder, organizes files by type and date, logs activities.
 
 ## Features
 - Real-time folder monitoring
