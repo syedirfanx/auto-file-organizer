@@ -65,3 +65,10 @@ python folder_organizer.py
   - Move it into YYYY-MM-DD/FORMAT/
   - Log the movement in file_log.csv
   - Show a success message in the console
+
+## Project Demonstration
+
+Watch the project walkthrough video here:
+[Watch on Google Drive](https://drive.google.com/file/d/1DDbbZl5P5bmjB77gfMKXRhIVN0r6WRjN/view?usp=sharing)
+
+_Note: The audio in the video is slightly low due to microphone limitations. Please use headphones for better clarity._
